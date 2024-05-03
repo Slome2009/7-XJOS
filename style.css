@@ -47,8 +47,7 @@ section{
    min-height: 100vh;
    display: flex;
    align-items: center;
-    background: url() no-repeat;
-   background: #000016;
+    background: url(https://www.bing.com/images/create/d8aed984d981d98ad8a9-d8a8d8b1d985d8acd8a9-d8a8d8a3d8b3d984d988d8a8-pixelart-d985d8b9-d8b4d983d984-3c2f3e/1-6634e7383e9444ea9ec874f79972c42b?id=mtsJ2Yy%2F842Lx%2BseWHpYUw%3D%3D&view=detailv2&idpp=genimg&noidpclose=1&thId=OIG1.OGrQ.NCuSf7gqnLXGzH9&FORM=SYDBIC&ssp=1&darkschemeovr=1&safesearch=moderate&setlang=ar&cc=XL&PC=SANSAAND) no-repeat;
    background-size: cover;
    background-position: center;
    background-attachment: fixed;
